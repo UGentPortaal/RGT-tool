@@ -126,7 +126,7 @@ INSTALLED_APPS = (
     'RGT.gridMng',
     'RGT.contact',
     'south',
-    'functional_tests',
+    'RGT.functional_tests',
 )
 
 # A sample logging configuration. The only tangible logging
